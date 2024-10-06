@@ -1,1 +1,3 @@
-<img src="https://img.shields.io/badge/discord-jax%236681-%235865F2">
+<a href="https://pikidiary.lol/">
+    <img src="https://pikidiary.lol/button-light.png">
+</a>
